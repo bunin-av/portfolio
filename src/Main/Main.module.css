@@ -1,0 +1,20 @@
+.main{
+    height: 100vh;
+    background: #ffa8a8;
+}
+.wrapper{
+    background: #ff9494;
+    border: 1px solid;
+    align-items: center;
+    justify-content: space-between;
+}
+.aboutMe{
+    width: 300px;
+    background: #c6c4c4;
+}
+
+.myPhoto{
+    width: 300px;
+    height: 400px;
+    background: #5b3c3c;
+}

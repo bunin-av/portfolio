@@ -1,0 +1,17 @@
+.myworks_block{
+    min-height: 100vh;
+    background: #ca88f6;
+}
+
+.myworks_wrap {
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+    background: #8ba5c1;
+}
+.project_elem_wrap{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}

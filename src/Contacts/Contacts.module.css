@@ -1,0 +1,13 @@
+.contacts_block{
+    height: 50vh;
+    background: #c6b959;
+}
+
+.contacts_wrap {
+    align-items: center;
+    flex-direction: column;
+    background: #8ba5c1;
+}
+.contacts_wrap>form>input{
+    display: block;
+}
